@@ -1,6 +1,5 @@
 # Personal Portfolio 🔥
 
-:star: Star me on GitHub — it helps!
 
 
 ### Website Preview
